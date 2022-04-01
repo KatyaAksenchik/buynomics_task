@@ -1,0 +1,9 @@
+{
+    "intermediariesView.heading": "Intermediaries list",
+    "intermediariesView.addButton": "Add new Intermediary",
+    "intermediariesView.table.collumn.createdAt": "Created at",
+    "intermediariesView.table.collumn.name": "Name",
+    "intermediariesView.table.collumn.order": "Order",
+    "intermediaryForm.option.field": "Option",
+    "intermediaryForm.value.field": "Value"
+}
