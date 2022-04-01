@@ -1,3 +1,5 @@
+Project link: https://katyaaksenchik.github.io/buynomics_task/
+
 # NOTE:
 
 There are a lot of things that I would update and add such as:
