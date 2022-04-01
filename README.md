@@ -1,6 +1,7 @@
 # NOTE:
 
 There are a lot of things that I would update and add such as:
+
     - set up linter (add more rules)
     - set up and add tests (jest + react-testing-library)
     - add Redux (because redux bring some boilerplate code I decided not to add it right now )
@@ -10,6 +11,7 @@ There are a lot of things that I would update and add such as:
     - try to use hook for requests
 
 The structure of project is:
+
     - assets -> where all fonts and images supposed to be stored
     - common -> components that are specific for the project and can be used in different views
     - components -> simple components 
