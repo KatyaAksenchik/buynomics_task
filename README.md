@@ -11,6 +11,7 @@ There are a lot of things that I would update and add such as:
     - possibly add literals handling with react-i18next lib
     - add mobile version for application
     - try to use hook for requests
+    - rename some variables
 
 The structure of project is:
 
